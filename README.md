@@ -10,6 +10,6 @@
 *   **[Сертификаты](https://drive.google.com/drive/folders/1r9MWmdKT1crSFLui4-bHhgw5ErIWPB44?usp=sharing)**:  Подтверждение участия в хакатонах.
 *   **Telegram:** [@maxlyara1](https://t.me/maxlyara1)
 *   **Email:** [maks.lyara@gmail.com](mailto:maks.lyara@gmail.com)
-*  **[LinkedIn](www.linkedin.com/in/maks-lyara-4b6441319)**
+*  **[LinkedIn](https://www.linkedin.com/in/maks-lyara-4b6441319/)**
 
 **⚡ Я открыт к новым возможностям и интересным проектам в области Machine Learning!**
