@@ -12,4 +12,4 @@
 *   **Email:** [maks.lyara@gmail.com](mailto:maks.lyara@gmail.com)
 *  **[LinkedIn](https://www.linkedin.com/in/maks-lyara-4b6441319/)**
 
-** Открыт к новым возможностям и интересным проектам в области ML!**
+**Открыт к новым возможностям и интересным проектам в области ML!**
