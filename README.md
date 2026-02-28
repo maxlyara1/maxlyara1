@@ -4,7 +4,7 @@
 Делаю прикладные ML-решения: прогнозирование, временные ряды, NLP, CV и LLM-агенты.
 Основной стек: Python, SQL, FastAPI, scikit-learn, PyTorch, Airflow, ClickHouse.
 
-На GitHub — рабочие и учебные проекты с кодом и описанием подходов.
+На GitHub — учебные проекты и решения хакатонов с кодом и описанием подходов.
 
 **Ссылки**
 - [Резюме (PDF)](https://github.com/maxlyara1/CV/blob/main/Lyara_MLE_CV.pdf)
